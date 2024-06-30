@@ -1,0 +1,5 @@
+First you need to down load an IDE that support an C++ file or install a complier on you system to run this file.
+
+This system was only a console (terminal) based, so it means that this doesn't have an system design.
+
+This system was design to make the canteen work space smooth and easer and cannot be use externally out side the campus canteen.

@@ -1,0 +1,7 @@
+First you need to down load an IDE that support an Java file or install a Java environment kit on you system to run this file.
+
+This system was only a console (terminal) based, so it means that this doesn't have an system design.
+
+What this system does it connect to the website using an API, and return the weather of the specific location.
+
+This is the first prototype that we made and is still under development, I didn't have a back-up for our final file and, but the classmate of mine on 11th grade had a back up file, however I have no contact with him anymore.

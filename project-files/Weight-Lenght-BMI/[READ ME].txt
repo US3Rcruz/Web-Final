@@ -1,0 +1,5 @@
+First you need to down load an IDE that support an C++ file or install a complier on you system to run this file.
+
+This system was only a console (terminal) based, so it means that this doesn't have an system design.
+
+What this system does is convert a weigh and height unit and calculate a BMI.
